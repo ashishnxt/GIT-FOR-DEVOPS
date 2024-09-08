@@ -1,1 +1,0 @@
-# GIT-FOR-DEVOPS
